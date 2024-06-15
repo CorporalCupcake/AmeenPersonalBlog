@@ -16,5 +16,6 @@ format:
     theme: flatly
     css: styles.css
 
-
+execute:
+  engine: knitr  # Specifies the execution engine for R code
 
