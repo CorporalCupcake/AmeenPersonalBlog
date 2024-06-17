@@ -1,0 +1,27 @@
+---
+title: "Sandbox"
+author: "Ameen Ayub"
+date: "17 June, 2024"
+
+format: 
+    html:
+        mainfont: Gill Sans
+        toc: true
+        toc-title: "Index"
+        toc-depth: 2
+        smooth-scroll: true
+        toc-location: left
+        theme: "Cybrog"
+
+editor: visual
+engine: knitr
+jupyter:
+  kernel: ir
+
+---
+
+```{r}
+
+print("Hello Quarto from R!")
+
+```

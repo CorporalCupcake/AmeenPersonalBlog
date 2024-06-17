@@ -18,4 +18,3 @@ format:
 
 execute:
   engine: knitr  # Specifies the execution engine for R code
-
