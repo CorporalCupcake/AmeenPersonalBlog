@@ -15,8 +15,8 @@ format:
 
 editor: visual
 engine: knitr
-jupyter:
-  kernel: ir
+# jupyter:
+#   kernel: ir
 
 ---
 
