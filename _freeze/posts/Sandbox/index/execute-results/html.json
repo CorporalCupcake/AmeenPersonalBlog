@@ -1,8 +1,8 @@
 {
-  "hash": "ada34dffe7c5543e18efbb857e4fdc38",
+  "hash": "f05cd4672c9fb6d597f247ca8563438d",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Sandbox\"\nauthor: \"Ameen Ayub\"\ndate: \"17 June, 2024\"\n\nformat: \n    html:\n        mainfont: Gill Sans\n        toc: true\n        toc-title: \"Index\"\n        toc-depth: 2\n        smooth-scroll: true\n        toc-location: left\n        theme: \"Cybrog\"\n\neditor: visual\nengine: knitr\njupyter:\n  kernel: ir\n\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(\"Hello Quarto from R!\")\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"Hello Quarto from R!\"\n```\n\n\n:::\n:::",
+    "markdown": "---\ntitle: \"Sandbox\"\nauthor: \"Ameen Ayub\"\ndate: \"17 June, 2024\"\nformat: \n    html:\n        toc: true\n        toc-title: \"Index\"\n        toc-depth: 2\n        smooth-scroll: true\n        toc-location: left\n\nexecute:\n  echo: false\n  eval: true\nengine: knitr\n\n\n---\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\nHello Quarto from R!\n```\n\n\n:::\n:::",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

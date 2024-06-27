@@ -11,7 +11,7 @@
     "href": "posts/Sandbox/index.html",
     "title": "Sandbox",
     "section": "",
-    "text": "print(\"Hello Quarto from R!\")\n\n[1] \"Hello Quarto from R!\""
+    "text": "Hello Quarto from R!"
   },
   {
     "objectID": "posts/post-with-code/index.html",
